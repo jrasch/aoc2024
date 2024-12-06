@@ -1,8 +1,7 @@
 {
   "profiles": {
     "CeresSearch": {
-      "commandName": "Project",
-      "commandLineArgs": "\"X:\\Projects\\aoc2024\\data\\input.txt\""
+      "commandName": "Project"
     }
   }
 }
